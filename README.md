@@ -1,2 +1,2 @@
 # snr_pwn_scatprop
-Created together with Samayra Straal at API, UvA.
+Model scattering properties of evolving Supernova Remanants and Pulsar Wind Nebulae.
